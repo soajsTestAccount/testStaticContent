@@ -6,9 +6,9 @@ module.exports = {
     multi: null,
     dashUI: true,
     src: {
-        repo: 'testDelete',
+        repo: 'testStaticContent',
         owner: 'soajsTestAccount',
-        main: '/index.js'
+        main: '/index.html'
     },
     prerequisites: {
         cpu: '',
