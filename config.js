@@ -4,7 +4,7 @@ module.exports = {
     name: 'Custom UI Test',
     type: 'staticContent',
     multi: null,
-    dashUI: true,
+    dashUI: false,
     src: {
         repo: 'testStaticContent',
         owner: 'soajsTestAccount',
