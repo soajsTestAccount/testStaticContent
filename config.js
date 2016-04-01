@@ -2,7 +2,7 @@
 
 module.exports = {
     name: 'Custom UI Test',
-    type: 'staticContent',
+    type: 'static',
     multi: null,
     dashUI: true,
     src: {
