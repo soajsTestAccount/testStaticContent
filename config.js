@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-    name: 'Custom UI Test 4',
+    name: 'CustomUITest',
     type: 'static',
     dashUI: false,
     prerequisites: {
