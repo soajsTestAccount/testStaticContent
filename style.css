@@ -1,0 +1,29 @@
+body {
+    font-family:arial;
+}
+
+a, a.active{
+    text-decoration:none;
+    color: #337ab7;
+}
+
+#wrapper{
+    margin: 100px auto;
+    width:60%;
+    text-align: center;
+    position:relative;
+}
+
+#wrapper img {
+    max-width:300px;
+}
+
+#wrapper .content{
+    color:#424951;
+}
+
+#wrapper .footer{
+    position:absolute;
+    bottom:0;
+    right:0;
+}
